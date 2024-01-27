@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_gravity="center"
+            android:background="@drawable/atasjenis"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"/>/>
+
+
+        <TextView
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:id="@+id/busuk"
+            android:textColor="@color/black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginStart="23dp"
+            android:layout_marginEnd="25dp"
+            android:text="BUSUK DAUN"/>
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_gravity="center"
+            android:layout_width="260dp"
+            android:layout_height="280dp"
+            app:cardCornerRadius="10dp">
+
+
+            <ImageView
+                android:background="@drawable/busukk"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+
+        </androidx.cardview.widget.CardView>
+        <TextView
+            android:textSize="14dp"
+            android:textColor="@color/black"
+            android:id="@+id/isibusuk"
+            android:layout_centerHorizontal="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:text="Penyakit Busuk Daun (Phytoptora). Penyakit ini merupakan salah satu penyakit yang sering dialami tanaman sawi ketika musim hujan. penyakit busuk pada daun mudah muncul ketika musim hujan dikarenakan suhu dingin, dan kelembapan udara yang terlalu tinggi. \nCara Mengatasi : \n1. Menyemprotkan fungisida pada tanaman. \n2. Pengaturan drainase atau sistem pengaliran air untuk mencegah genangan air saat hujan."/>
+
+
+        <TextView
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:id="@+id/leaf"
+            android:textColor="@color/black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginStart="23dp"
+            android:layout_marginEnd="25dp"
+            android:text="LEAF MINER"/>
+
+        <androidx.cardview.widget.CardView
+            android:layout_gravity="center"
+            android:layout_width="260dp"
+            android:layout_height="280dp"
+            app:cardCornerRadius="10dp">
+
+
+            <ImageView
+                android:background="@drawable/leafminer"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+        </androidx.cardview.widget.CardView>
+
+        <TextView
+            android:textSize="14dp"
+            android:textColor="@color/black"
+            android:id="@+id/isileaf"
+            android:layout_centerHorizontal="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:text="Leaf Miner adalah penyakit pada tanaman sawi yang disebabkan oleh hama lalat penggorok daun yang hidup dalam fase larva. Secara kasat mata, tanaman yang diserang hama leaf miner pada permukaan daun ada semacam garis berwarna putih memanjang berkelok kelok, semakin hari semakin panjang dan banyak daun yang akan diserang \nCara Mengatasi : \n1. Lindungi tanaman dengan green house, dengan demikian lalat dan serangga lainnya tidak bisa masuk area kebun. \n2. Pasang perangkap serangga atau yellow trap pada area tanaman. \n3. Pada tanaman yang sudah terlanjur terserang leaf miner, potonglah tangkai daun yang sudah terserang hama tersebut lalu dibakar \n4. Lakukan pengendalian secara biologi dengan menyemprot dengan pestisida nabati sehingga tidak ada residu kimia yang tertinggal pada tanaman."/>
+
+
+
+        <TextView
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:id="@+id/ulat"
+            android:textColor="@color/black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginStart="23dp"
+            android:layout_marginEnd="25dp"
+            android:text="ULAT GRAYAK"/>
+
+        <androidx.cardview.widget.CardView
+            android:layout_gravity="center"
+            android:layout_width="260dp"
+            android:layout_height="280dp"
+            app:cardCornerRadius="10dp">
+
+
+
+            <ImageView
+                android:background="@drawable/ulatgrayak"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+        </androidx.cardview.widget.CardView>
+
+
+        <TextView
+            android:textSize="14dp"
+            android:textColor="@color/black"
+            android:id="@+id/isiulat"
+            android:layout_centerHorizontal="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:text="Ulat grayak, atau sering juga disebut ulat pemakan daun, adalah salah satu hama yang dapat merugikan tanaman sawi. Hama ini cenderung menyerang bagian daun sawi, menyebabkan lubang-lubang pada daun dan dapat mengakibatkan kerusakan yang signifikan jika tidak segera ditangani.\nCara Mengatasi : \n1. Menyemprotkan tanaman dengan insektisida, Gunakan insektisida nabati yang mengandung bahan aktif seperti neem oil atau pyrethrin. \n2. Praktikkan rotasi tanaman untuk mengurangi risiko infestasi ulat grayak. Jangan menanam sawi atau tanaman cruciferous lainnya di lokasi yang sama secara berulang."/>
+
+
+    </LinearLayout>
+</ScrollView>
