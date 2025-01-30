@@ -6,8 +6,8 @@ Menggunakan Algoritma CNN
 <p>Syamsuddin Aliphadji Talaohu (202155202066)</p>
 <p>Rustandy Muslim (202155202067)</p>
 <p>Ahmad Afandi (202155202002)</p>
-<p>Adriansyach Heriyanto (   )</p>
-<p>Muhammad Kemal Ikhsani Tangke (   )</p>
-<p>Marcellino Hendrik Franzs (   )</p>
+<p>Adriansyach Heriyanto (202155202016)</p>
+<p>Muhammad Kemal Ikhsani Tangke (202155202029)</p>
+<p>Marcellino Hendrik Franzs (202155202032)</p>
 
 ## Tampilan Aplikasi 
