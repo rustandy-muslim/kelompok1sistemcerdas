@@ -1,4 +1,4 @@
-# Tugas UAS Sistem Cerdas
+# Tugas UAS Sistem Cerdas :rocket:
 Tugas Uas Sistem cerdas Membuat Aplikasi Dengan Judul "Deteksi Penyakit pada sawi menggunakan metode CNN berbasis Android"
 Menggunakan Algoritma CNN
 
