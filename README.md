@@ -65,4 +65,4 @@ Berikut adalah beberapa tampilan dari aplikasi yang telah dikembangkan:
 
 ---
 
-# 🎉 **Terima Kasih!**
+# 🎉 **Terima Kasih! jangan lupa Tersenyum :octocat:**
