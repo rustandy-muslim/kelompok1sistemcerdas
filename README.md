@@ -10,4 +10,4 @@ Menggunakan Algoritma CNN
 <p>Muhammad Kemal Ikhsani Tangke (202155202029)</p>
 <p>Marcellino Hendrik Franzs (202155202032)</p>
 
-## Tampilan Aplikasi 
+## Tampilan Aplikasi :iphone:
