@@ -12,4 +12,4 @@ Menggunakan Algoritma CNN
 
 ## Tampilan Aplikasi :iphone:
 Tampilan Splash Screen
-1[image alt] (![Image](https://github.com/user-attachments/assets/2adc8dfb-cea6-4c19-b573-35a5b8805934))
+(![Image](https://github.com/user-attachments/assets/2adc8dfb-cea6-4c19-b573-35a5b8805934))
