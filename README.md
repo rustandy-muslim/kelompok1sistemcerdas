@@ -11,7 +11,7 @@ Aplikasi ini dikembangkan untuk mendeteksi penyakit pada sawi menggunakan **Conv
 
 | Nama | NIM |
 |------|------|
-| 🧑‍💻 [**Syamsuddin Aliphadji Talaohu**](https://www.instagram.com/_syam.tlh) | `202155202066` |
+| 🧑‍💻 [**Syamsudin Aliphadji Talaohu**](https://www.instagram.com/_syam.tlh) | `202155202063` |
 | 🧑‍💻 [**Rustandy Muslim**](https://www.instagram.com/rustandimuslim) | `202155202067` |
 | 🧑‍💻 [**Ahmad Afandi**](https://www.instagram.com/ahmdafndi__) | `202155202002` |
 | 🧑‍💻 [**Adriansyach Heriyanto**](https://www.instagram.com/adrnsych) | `202155202016` |
