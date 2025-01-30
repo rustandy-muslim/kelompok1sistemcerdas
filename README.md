@@ -10,3 +10,4 @@ Menggunakan Algoritma CNN
 <p>Muhammad Kemal Ikhsani Tangke (   )</p>
 <p>Marcellino Hendrik Franzs (   )</p>
 
+##Tampilan Aplikasi 
