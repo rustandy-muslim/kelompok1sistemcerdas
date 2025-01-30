@@ -17,19 +17,20 @@ Menggunakan Algoritma CNN
     <img width="200" height="400" src="![Image](https://github.com/user-attachments/assets/2adc8dfb-cea6-4c19-b573-35a5b8805934)">
   </figure>
   <figure style="margin-bottom: 20px; text-align: center;">
-  <p>Halaman Utama Aplikasi</p>
-    <img width="200" height="400" src="gambar/utama2.jpg">
+  <p>Halaman Dasboard Aplikasi</p>
+    <img width="200" height="400" src="![Image](https://github.com/user-attachments/assets/e5a51cbd-26f1-47a2-8ff7-7c5cb390abd1)">
   </figure>
   <figure style="margin-bottom: 20px; text-align: center;">
   <p>Halaman Deteksi Penyakit</p>
-    <img width="200" height="400" src="gambar/deteksi.jpg">
+    <img width="200" height="400" src="![Image](https://github.com/user-attachments/assets/e46f5e16-c127-4995-8a3e-ac3b827a5c56)">
   </figure>
   <figure style="margin-bottom: 20px; text-align: center;">
-  <p>Halaman Info Penyakit</p>
-    <img width="200" height="400" src="gambar/infopenyakit.jpg">
+  <p>Halaman Daftar Penyakit</p>
+    <img width="200" height="400" src="![Image](https://github.com/user-attachments/assets/1777ce2c-2b4a-41d9-bc53-db7eede3883b)">
   </figure>
   <figure style="margin-bottom: 20px; text-align: center;">
-  <p>Halaman Tentang</p>
-    <img width="200" height="400" src="gambar/tentang.jpg">
+  <p>Halaman Tentang Aplikasi</p>
+    <img width="200" height="400" src="![Image](https://github.com/user-attachments/assets/a02f987e-40dd-42fa-b9a5-a5e16702115f)
+">
   </figure>
 </div>
