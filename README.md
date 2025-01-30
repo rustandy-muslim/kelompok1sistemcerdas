@@ -12,4 +12,4 @@ Menggunakan Algoritma CNN
 
 ## Tampilan Aplikasi :iphone:
 Tampilan Splash Screen
-1[image alt] (https://github.com/rustandy-muslim/kelompok1sistemcerdas/blob/master/app/src/main/res/drawable/tampilan%20splash%20screen.jpg?raw=true)
+1[image alt] (![Image](https://github.com/user-attachments/assets/2adc8dfb-cea6-4c19-b573-35a5b8805934))
