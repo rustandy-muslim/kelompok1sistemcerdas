@@ -65,17 +65,7 @@ public class deteksi extends AppCompatActivity {
                 deteksi.this.startActivityForResult(cameraIntent, 1);
             }
         });
-        this.picture.setOnClickListener(new View.OnClickListener() { // from class: com.example.pala.tampilan_menu.2
-            @Override // android.view.View.OnClickListener
-            public void onClick(View view) {
-                if (deteksi.this.checkSelfPermission("android.permission.CAMERA") == 0) {
-                    Intent cameraIntent = new Intent("android.media.action.IMAGE_CAPTURE");
-                    deteksi.this.startActivityForResult(cameraIntent, 3);
-                    return;
-                }
-                deteksi.this.requestPermissions(new String[]{"android.permission.CAMERA"}, 100);
-            }
-        });
+
     }
 
     public void classifyImage(Bitmap image) {
@@ -131,14 +121,14 @@ public class deteksi extends AppCompatActivity {
                 // Set the styled text to the TextView
                 solusi.setText(content);
                 solusi.setMovementMethod(LinkMovementMethod.getInstance());
-            }else if(classes[maxPos].equals("Leaf Miner")){
+            } else if (classes[maxPos].equals("Leaf Miner")) {
                 String solutionText = "Leaf Miner pada tanaman sawi dapat diatasi dengan langkah-langkah berikut:" +
                         "\n" +
                         "1. Lindungi tanaman dengan green house, dengan demikian lalat dan serangga lainnya tidak bisa masuk area kebun." +
                         "\n" +
-                        "2. Pasang perangkap serangga atau yellow trap pada area tanaman."+
-                         "\n" +
-                        "3. Pada tanaman yang sudah terlanjur terserang leaf miner, potonglah tangkai daun yang sudah terserang hama tersebut lalu dibakar."+
+                        "2. Pasang perangkap serangga atau yellow trap pada area tanaman." +
+                        "\n" +
+                        "3. Pada tanaman yang sudah terlanjur terserang leaf miner, potonglah tangkai daun yang sudah terserang hama tersebut lalu dibakar." +
                         "\n" +
                         "4. Lakukan pengendalian secara biologi dengan menyemprot dengan pestisida nabati sehingga tidak ada residu kimia yang tertinggal pada tanaman.";
                 // Underline and make it clickable
@@ -147,7 +137,7 @@ public class deteksi extends AppCompatActivity {
                 // Set the styled text to the TextView
                 solusi.setText(content);
                 solusi.setMovementMethod(LinkMovementMethod.getInstance());
-            }else if(classes[maxPos].equals("Ulat Grayak")){
+            } else if (classes[maxPos].equals("Ulat Grayak")) {
                 String solutionText = "Ulat Grayak pada tanaman sawi dapat diatasi dengan langkah-langkah berikut:" +
                         "\n" +
                         "1. Menyemprotkan tanaman dengan insektisida, Gunakan insektisida nabati yang mengandung bahan aktif seperti neem oil atau pyrethrin." +
@@ -163,19 +153,6 @@ public class deteksi extends AppCompatActivity {
             }
 
 
-
-
-            String s = "";
-            int i5 = 0;
-            while (i5 < classes.length) {
-                s = s + String.format("%s: %.1f%%\n", classes[i5], Float.valueOf(confidences[i5] * 100.0f));
-                i5++;
-                byteBuffer = byteBuffer;
-                inputFeature0 = inputFeature0;
-            }
-            this.confidence.setText(s);
-            model.close();
-        } catch (IOException e) {
         }
     }
 
