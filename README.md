@@ -11,3 +11,5 @@ Menggunakan Algoritma CNN
 <p>Marcellino Hendrik Franzs (202155202032)</p>
 
 ## Tampilan Aplikasi :iphone:
+Tampilan Splash Screen
+1[image alt] (https://github.com/rustandy-muslim/kelompok1sistemcerdas/blob/master/app/src/main/res/drawable/tampilan%20splash%20screen.jpg?raw=true)
