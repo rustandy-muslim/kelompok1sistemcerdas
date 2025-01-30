@@ -10,4 +10,5 @@ Menggunakan Algoritma CNN
 <p>Muhammad Kemal Ikhsani Tangke (   )</p>
 <p>Marcellino Hendrik Franzs (   )</p>
 
-##Tampilan Aplikasi 
+## Tampilan Aplikasi 
+![alt text] (https://github.com/rustandy-muslim/kelompok1sistemcerdas/blob/master/app/src/main/res/drawable/tampilan%20anggota%20kelompok.jpg?raw=true)
